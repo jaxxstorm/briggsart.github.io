@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Briggs Art"
+description: "Amateur graphite artist based in North Yorkshire specialising in British wildlife & other animals. Inspired by country life & the Yorkshire Dales landscape"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
