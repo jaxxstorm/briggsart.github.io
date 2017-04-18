@@ -9,17 +9,12 @@ author:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
-  year: 2020
-  month: 1
-  day: 1
-  hour: 0
-  minute: 0
+  theme: blue
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Maxine Briggs
+  email: maxine@briggsart.co.uk
   twitter:
   google-plus:
   instagramm:
